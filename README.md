@@ -7,6 +7,12 @@ for specific items/questions.
 
 # ReproLake Current Status (as of 9/14/2023)
 The ReproLake currently has the following content included...
+The following studies have some content (BIDS metadata, volumetrics from FSL, FreeSurfer and ANTS):
+
+- OpenNeuro
+- ABIDE
+- ADHD-200
+
 
 ## ReproLake instance
 
